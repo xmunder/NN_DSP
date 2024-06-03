@@ -1,7 +1,6 @@
 **/.DS_Store
 **/desktop.ini
-xd.ipynb
-train_metadatos.csv
-test_metadatos.csv
-train_signals_scaled.npz
-test_signals_scaled.npz
+test2NN_files/
+test2NN.tex 
+test1.csv
+train1.csv    
